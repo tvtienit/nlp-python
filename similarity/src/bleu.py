@@ -133,4 +133,4 @@ def compute(orig_sent, similar_sent, n_gram = 2):
   # bleu_score, precisions, bp, ratio, translation_length, reference_length
   bleu_score, _, _, _, _, _ = _compute_bleu(
       per_segment_references, translations, max_order, smooth)
-  return 100 * bleu_score
+  return  bleu_score

@@ -1,0 +1,809 @@
+origin en :  The boy lifted the lid of a box in his arms , and the people around him shrieked and yelled as something inside poked out a long , hairy leg .
+
+translate en :  The children around screamed , spiritedly jump back when a long leg of hair out of the box .
+
+target vi:  Bọn nhóc chung quanh kêu thét lên , hết hồn nhảy thối lui khi thấy một cái chân dài lông lá thò ra từ trong hộp .
+
+cosine point:  0.4721336852187802
+
+ 29% (1898 of 6335) |############################################################                                                                                                                                               | Elapsed Time: 0:02:16 ETA:   0:05:42
+
+origin en :  Harry pressed on through the crowd until he found an empty compartment near the end of the train .
+
+translate en :  Harry squeezed the crowd until he reached an empty carriage near the end of the train .
+
+target vi:  Harry chen lấn đám đông cho đến khi kiếm được một toa trống gần cuối xe lửa .
+
+cosine point:  0.8268688657895648
+
+
+origin en :  He put Hedwig inside first and then started to shove and heave his trunk toward the train door .
+
+translate en :  He pushed Hedwig first and then struggled with his huge chest , lifting it as he pushed the chest toward the wagon door .
+
+target vi:  Nó đẩy cú Hedwig vô trước rồi mới bắt đầu vật lộn với cái rương khổng lồ của mình , vừa nâng vừa đẩy cái rương về phía cửa toa xe .
+
+cosine point:  0.46483484010068404
+
+ 29% (1900 of 6335) |############################################################                                                                                                                                               | Elapsed Time: 0:02:16 ETA:   0:05:51
+
+origin en :  He tried to lift it up the steps but could hardly raise one end and twice he dropped it painfully on his foot .
+
+translate en :  Harry tried to pull the chest up one by one , but there was no way to lift one of the chests , and he had fallen on his feet twice .
+
+target vi:  Harry cố sức lê cái rương lên từng nấc một , nhưng không cách gì nhấc được một đầu rương lên , đã vậy còn rớt trúng chân đau điếng hai lần .
+
+cosine point:  0.5124100921762789
+
+
+origin en :  " Want a hand ? "
+
+translate en :  - Need a helping hand ?
+
+target vi:  - Cần giúp một tay không ?
+
+cosine point:  0.5773502691896258
+
+ 30% (1902 of 6335) |############################################################                                                                                                                                               | Elapsed Time: 0:02:16 ETA:   0:05:50
+
+origin en :  It was one of the red - haired twins he'd followed through the barrier .
+
+translate en :  It turned out to be one of the two red - haired brothers that Harry had followed from outside the ticket booth .
+
+target vi:  Thì ra là một trong hai anh em sinh đôi tóc đỏ mà Harry đi theo từ ngoài quầy bán vé .
+
+cosine point:  0.5212860351426869
+
+
+origin en :  " Yes , please , " Harry panted .
+
+translate en :  - Yes .
+
+target vi:  - đành thôi .
+
+cosine point:  0.5
+
+ 30% (1904 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:17 ETA:   0:05:51
+
+origin en :  " Oy , Fred ! C ' mere and help ! "
+
+translate en :  - Fred ?
+
+target vi:  - Fred ơi ?
+
+cosine point:  0.4082482904638631
+
+
+origin en :  With the twins ' help , Harry's trunk was at last tucked away in a corner of the compartment .
+
+translate en :  Harry turned over in front of the card , shocked at the sight of Dumbledore's disappearance .
+
+target vi:  Harry lật lại trước mặt tấm thẻ , vô cùng kinh ngạc khi thấy chân dung cụ Dumbledore đã biến mất .
+
+cosine point:  0.4999999999999999
+
+ 30% (1906 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:17 ETA:   0:05:55
+
+origin en :  " Thanks , " said Harry , pushing his sweaty hair out of his eyes .
+
+translate en :  He stroked his sweaty hair on his forehead and said ,
+
+target vi:  Nó vừa vuốt mớ tóc đẫm mồ hôi trên trán nói :
+
+cosine point:  0.5604485383178051
+
+
+origin en :  " What's that ? " said one of the twins suddenly , pointing at Harry's lightning scar .
+
+translate en :  Suddenly , one of the twin brothers pointed to the lightning scar on Harry's forehead , exclaiming :
+
+target vi:  Bỗng nhiên , một trong hai anh em sinh đôi chỉ vào vết thẹo hình tia chớp trên trán Harry , kêu lên :
+
+cosine point:  0.5144957554275266
+
+ 30% (1908 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:17 ETA:   0:05:59
+
+origin en :  " Blimey , " said the other twin .
+
+translate en :  But the second twin said ,
+
+target vi:  Nhưng đứa sinh đôi thứ hai lại nói :
+
+cosine point:  0.5999999999999999
+
+
+origin en :  " Are you
+
+translate en :  - Are you hungry ?
+
+target vi:  - Bồ đói lắm hả ?
+
+cosine point:  0.8164965809277259
+
+ 30% (1910 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:17 ETA:   0:05:55
+
+origin en :  " He is , " said the first twin .
+
+translate en :  He said ,
+
+target vi:  Lão nói :
+
+cosine point:  0.5773502691896258
+
+ 30% (1911 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:17 ETA:   0:05:55
+
+origin en :  " Aren't you ? " he added to Harry .
+
+translate en :  Pointing to Harry opposite , he asked :
+
+target vi:  No chỉ vào chỗ đối diện với Harry hỏi :
+
+cosine point:  0.4629100498862757
+
+
+origin en :  " What ? " said Harry .
+
+translate en :  Harry said :
+
+target vi:  Harry nói :
+
+cosine point:  0.8164965809277259
+
+ 30% (1913 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:17 ETA:   0:05:30
+
+origin en :  " Harry Potter , " chorused the twins .
+
+translate en :  Harry Potter .
+
+target vi:  Harry Potter .
+
+cosine point:  0.6324555320336759
+
+
+origin en :  " Oh , him , " said Harry .
+
+translate en :  Harry said :
+
+target vi:  Harry nói :
+
+cosine point:  0.7071067811865475
+
+ 30% (1915 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:17 ETA:   0:05:24
+
+origin en :  " I mean , yes , I am . "
+
+translate en :  I said :
+
+target vi:  Anh nói :
+
+cosine point:  0.5345224838248487
+
+
+origin en :  The two boys gawked at him , and Harry felt himself turning red .
+
+translate en :  The other two boys looked at Harry , making him embarrassed .
+
+target vi:  Hai thằng bé kia đực mặt ra nhìn Harry khiến nó ngượng chín cả người .
+
+cosine point:  0.5477225575051661
+
+ 30% (1917 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:17 ETA:   0:05:16
+
+origin en :  Then , to his relief , a voice came floating in through the train's open door .
+
+translate en :  Thanks to the twin brothers , Harry finally managed to get the chest in a corner of the train .
+
+target vi:  Nhờ hai anh em sinh đôi giúp , cuối cùng Harry cũng đưa được cái rương vô một góc toa tàu .
+
+cosine point:  0.40509574683346666
+
+
+origin en :  " Fred ?
+
+translate en :  - Fred ?
+
+target vi:  - Fred ơi ?
+
+cosine point:  1.0
+
+ 30% (1919 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:18 ETA:   0:05:15
+
+origin en :  George ?
+
+translate en :  George ?
+
+target vi:  George à ?
+
+cosine point:  1.0
+
+
+origin en :  Are you there ? "
+
+translate en :  - Are you hungry ?
+
+target vi:  - Bồ đói lắm hả ?
+
+cosine point:  0.6666666666666667
+
+ 30% (1921 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:18 ETA:   0:05:02
+
+origin en :  " Coming , Mom . "
+
+translate en :  - Mom let go .
+
+target vi:  - Má buông con ra .
+
+cosine point:  0.40824829046386296
+
+
+origin en :  With a last look at Harry , the twins hopped off the train .
+
+translate en :  While Hagrid asked the person behind the counter for some of the ingredients needed for Harry's study , Harry himself went to look at the silver horn ( twenty - one Galleons ) , and the eyes Orange beetle branch , small cup ( five knuts a general
+) .
+
+target vi:  Trong khi lão Hagrid hỏi người đứng sau quầy về một số nguyên liệu cần thiết cho việc học của Harry , thì tự Harry một mình đi xem xét mấy cái sừng kỳ lân bạc ( giá hai mươi mốt Galleons một cái ) , và những con mắt bọ cam đen nhánh , nhỏ ti tí ( năm
+Knuts một chung ) .
+
+cosine point:  0.4934637712198267
+
+ 30% (1923 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:18 ETA:   0:04:55
+
+origin en :  Harry sat down next to the window where , half hidden , he could watch the red - haired family on the platform and hear what they were saying .
+
+translate en :  Harry sat down by the window , barely visible , but could see the red - haired family standing on the platform and heard their conversation .
+
+target vi:  Harry ngồi xuống cạnh cửa sổ , hơi khuất nhưng cũng có thể nhìn thấy gia đình tóc đỏ đứng trên sân ga và nghe tiếng họ chuyện trò .
+
+cosine point:  0.6565321642986127
+
+ 30% (1924 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:18 ETA:   0:05:00
+
+origin en :  Their mother had just taken out her handkerchief .
+
+translate en :  They leaned out the window for her mother to kiss her , and her youngest daughter cried out .
+
+target vi:  Chúng nhoài người ra ngoài cửa sổ cho mẹ hôn từ giã , và đứa con gái nhỏ nhất oà ra khóc .
+
+cosine point:  0.4242640687119285
+
+
+origin en :  " Ron , you ' ve got something on your nose . "
+
+translate en :  - Ron , there is something on the nose .
+
+target vi:  - Ron , có cái gì dính trên mũi con kìa .
+
+cosine point:  0.5345224838248487
+
+ 30% (1926 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:18 ETA:   0:04:58
+
+origin en :  The youngest boy tried to jerk out of the way , but she grabbed him and began rubbing the end of his nose .
+
+translate en :  The open door of the train opened and the youngest of the red - haired brothers poked their head in .
+
+target vi:  Cửa toa tàu nhẹ mở và thằng em út trong đám anh em tóc đỏ thò đầu vào .
+
+cosine point:  0.4906533814626582
+
+
+origin en :  " Mom -- geroff " He wriggled free .
+
+translate en :  He said to a free goblin :
+
+target vi:  Lão nói với một tên yêu tinh đang rảnh :
+
+cosine point:  0.3651483716701107
+
+ 30% (1928 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:18 ETA:   0:04:56
+
+origin en :  " Aaah , has ickle Ronnie got somefink on his nosie ? " said one of the twins .
+
+translate en :  The one who has been on his side has fallen on his side , some have awakened the anger , he has turned back , they do not even follow him .
+
+target vi:  Người từng theo phe hắn bây giờ đã ngã về phe ta , một số đã bừng tỉnh cơn mê , hắn có quay lại thì người ta cũng không thèm theo hắn nữa .
+
+cosine point:  0.3803194146278325
+
+
+origin en :  " Shut up , " said Ron .
+
+translate en :  - Shut up ! - shouted Ron .
+
+target vi:  - Im đi ! – Ron hét .
+
+cosine point:  0.75
+
+ 30% (1930 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:18 ETA:   0:04:55
+
+origin en :  " Where's Percy ? " said their mother .
+
+translate en :  - Where is Percy ?
+
+target vi:  - Percy đâu rồi ?
+
+cosine point:  0.47140452079103173
+
+
+origin en :  " He's coming now . "
+
+translate en :  He's gone - that's the biggest secret .
+
+target vi:  Hắn biến đi – đó là điều bí mật lớn nhất .
+
+cosine point:  0.4743416490252569
+
+ 30% (1932 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:18 ETA:   0:04:48
+
+origin en :  The oldest boy came striding into sight .
+
+translate en :  The boy snorted :
+
+target vi:  Thằng bé khịt mũi :
+
+cosine point:  0.4364357804719848
+
+
+origin en :  He had already changed into his billowing black Hogwarts robes , and Harry noticed a shiny silver badge on his chest with the letter P on it .
+
+translate en :  He changed into the Hogwarts student's large black uniform and Harry saw in his chest a silver insignia , on which was an alphabet P .
+
+target vi:  Anh chàng đã thay bộ đồng phục đen rộng lùng thùng của học sinh Hogwarts và Harry thấy trước ngực áo anh là một phù hiệu bạc , trên đó có một mẫu tự P .
+
+cosine point:  0.5842373946721772
+
+ 30% (1934 of 6335) |#############################################################                                                                                                                                              | Elapsed Time: 0:02:19 ETA:   0:04:49
+
+origin en :  " Can't stay long , Mother , " he said .
+
+translate en :  Meanwhile he said :
+
+target vi:  Trong lúc đó cụ nói :
+
+cosine point:  0.4364357804719848
+
+ 30% (1935 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:19 ETA:   0:04:49
+
+origin en :  " I'm up front , the prefects have got two compartments to themselves -- "
+
+translate en :  I'm sure I have a lot to learn .
+
+target vi:  Tôi chắc là tôi còn phải học nhiều thứ lắm .
+
+cosine point:  0.4351941398892446
+
+
+origin en :  " Oh , are you a prefect , Percy ? " said one of the twins , with an air of great surprise .
+
+translate en :  One of the two said ,
+
+target vi:  Một trong hai đứa sinh đôi nói :
+
+cosine point:  0.4103913408340616
+
+ 30% (1937 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:19 ETA:   0:04:50
+
+origin en :  " You should have said something , we had no idea . "
+
+translate en :  You should have said it !
+
+target vi:  Lẽ ra anh phải nói chớ !
+
+cosine point:  0.5962847939999439
+
+
+origin en :  " Hang on , I think I remember him saying something about it , " said the other twin .
+
+translate en :  " Yes , " said the second twin , choking . " Wait , I remember one time saying something about the boss .
+
+target vi:  - Có mà – đứa sinh đôi thứ hai nói chen , - Khoan , tao nhớ có lần ảnh nói gì đó về vụ huynh trưởng .
+
+cosine point:  0.5716619504750294
+
+ 30% (1939 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:19 ETA:   0:04:49
+
+origin en :  " Once -- "
+
+translate en :  Once I greet you in the supermarket .
+
+target vi:  Có lần bác chào cháu trong siêu thị .
+
+cosine point:  0.3779644730092272
+
+
+origin en :  " Or twice -- "
+
+translate en :  - About twice
+
+target vi:  - Hổng chừng hai lần
+
+cosine point:  0.4999999999999999
+
+
+origin en :  " A minute -- "
+
+translate en :  - A Muggle .
+
+target vi:  - Một Muggle .
+
+cosine point:  0.4999999999999999
+
+ 30% (1942 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:19 ETA:   0:04:46
+
+origin en :  " All summer -- "
+
+translate en :  All other places .
+
+target vi:  Mấy toa khác hết chỗ rồi .
+
+cosine point:  0.40824829046386296
+
+
+origin en :  " Oh , shut up , " said Percy the Prefect .
+
+translate en :  Brother Percy said :
+
+target vi:  Anh Percy huynh trưởng bảo :
+
+cosine point:  0.4364357804719848
+
+ 30% (1944 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:19 ETA:   0:04:48
+
+origin en :  " How come Percy gets new robes , anyway ? " said one of the twins .
+
+translate en :  One of the two said ,
+
+target vi:  Một trong hai đứa sinh đôi nói :
+
+cosine point:  0.3872983346207417
+
+
+origin en :  " Because he's a prefect , " said their mother fondly .
+
+translate en :  Meanwhile he said :
+
+target vi:  Trong lúc đó cụ nói :
+
+cosine point:  0.3849001794597505
+
+ 30% (1946 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:19 ETA:   0:04:52
+
+origin en :  " All right , dear , well , have a good term -- send me an owl when you get there . "
+
+translate en :  So I ' ll get you an owl .
+
+target vi:  Vậy ta sẽ sắm cho con một con cú .
+
+cosine point:  0.3779644730092272
+
+
+origin en :  She kissed Percy on the cheek and he left .
+
+translate en :  She kissed Percy's cheeks and sent him away . Then she turned to the twins advised :
+
+target vi:  Bà hôn lên má Percy tiễn anh đi. Rồi bà quay lại hai cậu song sinh dặn dò :
+
+cosine point:  0.4166666666666667
+
+ 30% (1948 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:20 ETA:   0:04:55
+
+origin en :  Then she turned to the twins .
+
+translate en :  She kissed Percy's cheeks and sent him away . Then she turned to the twins advised :
+
+target vi:  Bà hôn lên má Percy tiễn anh đi. Rồi bà quay lại hai cậu song sinh dặn dò :
+
+cosine point:  0.6123724356957946
+
+
+origin en :  " Now , you two -- this year , you behave yourselves .
+
+translate en :  - Now , you two are behaving , this year you have grown up .
+
+target vi:  - Bây giờ , hai con liệu mà cư xử , năm nay các con đã lớn rồi .
+
+cosine point:  0.7016464154456235
+
+ 30% (1950 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:20 ETA:   0:04:54
+
+origin en :  If I get one more owl telling me you ' ve -- you ' ve blown up a toilet or -- "
+
+translate en :  So I ' ll get you an owl .
+
+target vi:  Vậy ta sẽ sắm cho con một con cú .
+
+cosine point:  0.4123930494211613
+
+
+origin en :  " Blown up a toilet ?
+
+translate en :  Where did the toilet bowl blow up ? - a twin cried .
+
+target vi:  Tụi con đâu có làm nổ bồn cầu tiêu bao giờ đâu ? – một đứa sinh đôi kêu lên .
+
+cosine point:  0.4743416490252569
+
+ 30% (1952 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:20 ETA:   0:04:58
+
+origin en :  We ' ve never blown up a toilet . "
+
+translate en :  - We will also send you a toilet bowl Hogwarts .
+
+target vi:  - Bọn anh cũng sẽ gởi cho em một cái bồn cầu tiêu Hogwarts .
+
+cosine point:  0.3779644730092272
+
+
+origin en :  " Great idea though , thanks , Mom . "
+
+translate en :  - Mom let go .
+
+target vi:  - Má buông con ra .
+
+cosine point:  0.2581988897471611
+
+ 30% (1954 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:20 ETA:   0:04:52
+
+origin en :  " It's not funny .
+
+translate en :  It's tragic .
+
+target vi:  Chuyện thương tâm quá .
+
+cosine point:  0.5773502691896258
+
+
+origin en :  And look after Ron . "
+
+translate en :  Remember to look after Ron .
+
+target vi:  Nhớ trông nom Ron với .
+
+cosine point:  0.6708203932499369
+
+ 30% (1956 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:20 ETA:   0:04:49
+
+origin en :  " Don't worry , ickle Ronniekins is safe with us . "
+
+translate en :  The only safe place is Hogwarts .
+
+target vi:  Nơi duy nhất còn an toàn là Hogwarts .
+
+cosine point:  0.2721655269759087
+
+
+origin en :  " Shut up , " said Ron again .
+
+translate en :  - Shut up ! - shouted Ron .
+
+target vi:  - Im đi ! – Ron hét .
+
+cosine point:  0.6708203932499369
+
+ 30% (1958 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:20 ETA:   0:04:49
+
+origin en :  He was almost as tall as the twins already and his nose was still pink where his mother had rubbed it .
+
+translate en :  It was about as high as his twin brothers , and his nose was pink because of his mother's torment .
+
+target vi:  Nó cao gần bằng hai ông anh sinh đôi và cái mũi vẫn còn hồng hồng vì bị mẹ nó vò lúc nãy .
+
+cosine point:  0.6324555320336759
+
+ 30% (1959 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:20 ETA:   0:04:52
+
+origin en :  " Hey , Mom , guess what ?
+
+translate en :  - so what ?
+
+target vi:  - để chi vậy ?
+
+cosine point:  0.35355339059327373
+
+
+origin en :  Guess who we just met on the train ? "
+
+translate en :  - A , Ø cheek guess , guess who we met on the train today ?
+
+target vi:  - A , Ø má đoán thử coi , đoán thử hồi nãy tụi con gặp ai trên xe lửa coi ?
+
+cosine point:  0.5669467095138409
+
+ 30% (1961 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:20 ETA:   0:04:52
+
+origin en :  Harry leaned back quickly so they couldn't see him looking .
+
+translate en :  Harry leaned back against the chair so the red - haired family could not see it .
+
+target vi:  Harry vội dựa lưng sát ghế để gia đình tóc đỏ không thể nhìn thấy nó .
+
+cosine point:  0.36563621206356534
+
+
+origin en :  " You know that black - haired boy who was near us in the station ?
+
+translate en :  - Do you remember the black - haired boy standing near you in the street ?
+
+target vi:  - Má nhớ thằng nhỏ tóc đen đứng gần mình ngoài ga không ?
+
+cosine point:  0.4708709557974188
+
+ 30% (1963 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:21 ETA:   0:04:55
+
+origin en :  Know who he is ? "
+
+translate en :  - So that is where the - who - who - also - know - is - who - it was
+
+target vi:  - Vậy ra đó là chỗ mà kẻ – mà – ai – cũng – biết – là – ai – đấy đã
+
+cosine point:  0.545544725589981
+
+
+origin en :  " Who ? "
+
+translate en :  - Who ?
+
+target vi:  - Ai vậy ?
+
+cosine point:  1.0
+
+ 31% (1965 of 6335) |##############################################################                                                                                                                                             | Elapsed Time: 0:02:21 ETA:   0:04:47
+
+origin en :  " Harry Potter ! "
+
+translate en :  Harry Potter .
+
+target vi:  Harry Potter .
+
+cosine point:  0.9999999999999998
+
+
+origin en :  Harry heard the little girl's voice .
+
+translate en :  Harry listened to the little girl's voice :
+
+target vi:  Harry nghe giọng đứa con gái nhỏ :
+
+cosine point:  0.8017837257372731
+
+ 31% (1967 of 6335) |###############################################################                                                                                                                                            | Elapsed Time: 0:02:21 ETA:   0:04:45
+
+origin en :  " Oh , Mom , can I go on the train and see him , Mom , eh please .... "
+
+translate en :  - Mom let go .
+
+target vi:  - Má buông con ra .
+
+cosine point:  0.43301270189221935
+
+
+origin en :  " You ' ve already seen him , Ginny , and the poor boy isn't something you goggle at in a zoo .
+
+translate en :  But you know , in the Muggles world , you take pictures and people are in the picture .
+
+target vi:  Nhưng mà bạn biết không , ở thế giới Muggles , chụp hình rồi là người ta ở yên trong hình .
+
+cosine point:  0.3423811916311629
+
+ 31% (1969 of 6335) |###############################################################                                                                                                                                            | Elapsed Time: 0:02:21 ETA:   0:04:46
+
+origin en :  Is he really , Fred ?
+
+translate en :  Is not he , Fred ?
+
+target vi:  Mà có đúng là cậu ấy không , Fred ?
+
+cosine point:  0.75
+
+
+origin en :  How do you know ? "
+
+translate en :  How do you know ?
+
+target vi:  Làm sao con biết được ?
+
+cosine point:  1.0
+
+ 31% (1971 of 6335) |###############################################################                                                                                                                                            | Elapsed Time: 0:02:21 ETA:   0:04:42
+
+origin en :  " Asked him .
+
+translate en :  Poor him .
+
+target vi:  Tội nghiệp ổng .
+
+cosine point:  0.4999999999999999
+
+
+origin en :  Saw his scar .
+
+translate en :  Harry reached out and pulled his hair on his forehead , revealing a lightning scar .
+
+target vi:  Harry đưa tay vén mớ tóc rủ trên trán để lộ ra cái thẹo hình tia chớp .
+
+cosine point:  0.43301270189221935
+
+ 31% (1973 of 6335) |###############################################################                                                                                                                                            | Elapsed Time: 0:02:21 ETA:   0:04:43
+
+origin en :  It's really there - like lightning . "
+
+translate en :  It's tragic .
+
+target vi:  Chuyện thương tâm quá .
+
+cosine point:  0.47140452079103173
+
+
+origin en :  " Poor dear - no wonder he was alone , I wondered .
+
+translate en :  I suppose he was burnt into the ghost .
+
+target vi:  Ta cho là hắn đã bị tẩu hỏa nhập ma .
+
+cosine point:  0.35355339059327373
+
+ 31% (1975 of 6335) |###############################################################                                                                                                                                            | Elapsed Time: 0:02:21 ETA:   0:04:47
+
+origin en :  He was ever so polite when he asked how to get onto the platform . "
+
+translate en :  He was so big that he could roam the crowd to get on easily , and Harry just slammed on the heel .
+
+target vi:  Lão to lớn đến nỗi có thể vẹt đám đông để lấy lối đi một cách dễ dàng , Harry chỉ cần hộc tốc bám theo gót lão .
+
+cosine point:  0.42761798705987897
+
+
+origin en :  " Never mind that , do you think he remembers what You - Know - Who looks like ? "
+
+translate en :  - do not do that !
+
+target vi:  - đừng làm vậy !
+
+cosine point:  0.3273268353539886
+
+ 31% (1977 of 6335) |###############################################################                                                                                                                                            | Elapsed Time: 0:02:21 ETA:   0:04:49
+
+origin en :  Their mother suddenly became very stern .
+
+translate en :  Their mother asked :
+
+target vi:  Mẹ chúng hỏi :
+
+cosine point:  0.47140452079103173
+
+
+origin en :  " I forbid you to ask him , Fred .
+
+translate en :  - I forbid you ask it .
+
+target vi:  - Má cấm con hỏi nó điều đó .
+
+cosine point:  0.6761234037828131
+
+ 31% (1979 of 6335) |###############################################################                                                                                                                                            | Elapsed Time: 0:02:22 ETA:   0:04:44
+
+origin en :  No , don't you dare .
+
+translate en :  - No , no .
+
+target vi:  - Dạ , không đâu .
+
+cosine point:  0.31622776601683794
+
+
+origin en :  As though he needs reminding of that on his first day at school . "
+
+translate en :  Does it need to be reminded of that terrible thing on the first day of school ?
+
+target vi:  Bộ nó cần nghe nhắc nhở đến điều khủng khiếp ấy vào ngày đầu tiên đến trường sao ?
+
+cosine point:  0.4576043153224295
+
+ 31% (1981 of 6335) |###############################################################                                                                                                                                            | Elapsed Time: 0:02:22 ETA:   0:04:45
+
+origin en :  " All right , keep your hair on . "
+
+translate en :  - right .
+
+target vi:  - đúng rồi .
+
+cosine point:  0.4082482904638631
